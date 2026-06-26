@@ -1,11 +1,13 @@
 {
   "licenses": [
     {
+      "student_id": "HE170123",
       "key": "QX9T10-KL7P887-MN2VU",
-      "hwid": "A3EF1AA-B0671BFCBFBFF",
+      "hwid": "A3EF1A4B-8C9D2E1F",
       "status": "ACTIVE"
     },
     {
+      "student_id": "HA180456",
       "key": "MODLITE-FREE-TRY-2026",
       "hwid": "",
       "status": "PENDING"
